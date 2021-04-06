@@ -2,8 +2,8 @@
 
 ### Contact & Personal Info
 
-- [Curriculum Vitae in English](ndharari.github.io/ndharari/cv/CV Nicolas Harari English.pdf)
-- [Curriculum Vitae in Spanish](ndharari.github.io/ndharari/cv/CV Nicolás Harari Español.pdf)
+- [Curriculum Vitae in English](https://ndharari.github.io/ndharari/cv/CV%20Nicolas%20Harari%20English.pdf)
+- [Curriculum Vitae in Spanish](https://ndharari.github.io/ndharari/cv/CV%20Nicolas%20Harari%20Espa%C3%B1ol.pdf)
 - [ndharari@gmail.com](mailto:ndharari@gmail.com)
 
 ### Bachelor Thesis
