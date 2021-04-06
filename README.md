@@ -1,5 +1,9 @@
-### CONTACT
+# Nicolás Harari
 
+### CONTACT & Personal Info
+
+- Curriculum Vitae in English
+- Curriculum Vitae in Spanish
 - [ndharari@gmail.com](mailto:ndharari@gmail.com)
 
 ### Bachelor Thesis
