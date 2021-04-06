@@ -1,9 +1,9 @@
 # Nicolás Harari
 
-### CONTACT & Personal Info
+### Contact & Personal Info
 
-- Curriculum Vitae in English
-- Curriculum Vitae in Spanish
+- [Curriculum Vitae in English]({{ site.baseurl }}/pdfs/CV Nicolás Harari - English.pdf)
+- [Curriculum Vitae in Spanish]({{ site.baseurl }}/pdfs/CV Nicolás Harari - Español.pdf)
 - [ndharari@gmail.com](mailto:ndharari@gmail.com)
 
 ### Bachelor Thesis
