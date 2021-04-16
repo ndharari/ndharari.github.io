@@ -15,6 +15,7 @@ Here you can find my Bachelor Thesis, an agent based market simulation in Python
 ### CODING
 
 - [Market Simulation](https://github.com/ndharari/MarketSimulation), the repo for my Bachelor Thesis.
+- [Diferential Equation Solver and Grapher on Sympy](https://github.com/ndharari/diffeq)
 
 ### Teaching Material
 
